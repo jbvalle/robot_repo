@@ -11,8 +11,8 @@ public class Robot{
 		r1.introduce();
 		r2.introduce();
 		
-		Person p1 = new Person("Said", 22);
-		Person p2 = new Person("Yasin", 23);
+		Person p1 = new Person("Jafer", 22);
+		Person p2 = new Person("Elanur", 23);
 		
 		p1.isOwned = r2;
 		p2.isOwned = r1;
